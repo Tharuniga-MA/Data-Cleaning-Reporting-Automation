@@ -175,7 +175,6 @@ Step 5 – Visualization
 Interactive charts and graphs are generated automatically.
 
 Step 6 – Report Export
----
 Users can download:
 
 Cleaned datasets
@@ -223,6 +222,7 @@ Allows real-time filtering and exploration.
 Interactive Dashboard
 
 Users can dynamically interact with charts and KPIs.
+
 ---
 Advantages of the Project
 Reduces manual preprocessing effort
@@ -232,7 +232,9 @@ Easy-to-use interface
 Professional dashboard appearance
 Industry-style workflow automation
 Future Enhancements
+
 ---
+
 Future improvements may include:
 
 AI-powered insight generation
@@ -243,5 +245,6 @@ Cloud deployment
 Automated scheduled reporting
 NLP-based report summaries
 Power BI integration
+
 │
 └── logs/
