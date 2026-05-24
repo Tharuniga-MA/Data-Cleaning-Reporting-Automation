@@ -225,26 +225,24 @@ Users can dynamically interact with charts and KPIs.
 
 ---
 Advantages of the Project
-Reduces manual preprocessing effort
-Improves reporting efficiency
-Provides real-time analytics
-Easy-to-use interface
-Professional dashboard appearance
-Industry-style workflow automation
-Future Enhancements
+
+-Reduces manual preprocessing effort
+-Improves reporting efficiency
+-Provides real-time analytics
+-Easy-to-use interface
+-Professional dashboard appearance
+-Industry-style workflow automation
+-Future Enhancements
 
 ---
 
 Future improvements may include:
 
-AI-powered insight generation
-Machine learning anomaly detection
-Real-time database connectivity
-Multi-user authentication
-Cloud deployment
-Automated scheduled reporting
-NLP-based report summaries
-Power BI integration
-
-│
-└── logs/
+-AI-powered insight generation
+-Machine learning anomaly detection
+-Real-time database connectivity
+-Multi-user authentication
+-Cloud deployment
+-Automated scheduled reporting
+-NLP-based report summaries
+-Power BI integration
