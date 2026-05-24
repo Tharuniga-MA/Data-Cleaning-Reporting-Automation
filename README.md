@@ -153,6 +153,7 @@ Dataset structure
 Missing values
 Duplicate records
 Datatypes
+
 Step 3 – Automated Cleaning
 
 The cleaning engine:
@@ -161,6 +162,7 @@ Removes duplicates
 Handles missing values
 Standardizes formats
 Detects outliers
+
 Step 4 – Data Analysis
 
 The dashboard generates:
@@ -173,13 +175,13 @@ Step 5 – Visualization
 Interactive charts and graphs are generated automatically.
 
 Step 6 – Report Export
-
+---
 Users can download:
 
 Cleaned datasets
 Analytics reports
 Visualization summaries
-
+---
 Major Modules
 1. Data Upload Module
 
@@ -200,7 +202,7 @@ Creates interactive visual dashboards.
 5. Reporting Module
 
 Exports reports and cleaned data.
-
+---
 Advanced Functionalities
 Intelligent Cleaning Pipeline
 
@@ -221,7 +223,7 @@ Allows real-time filtering and exploration.
 Interactive Dashboard
 
 Users can dynamically interact with charts and KPIs.
-
+---
 Advantages of the Project
 Reduces manual preprocessing effort
 Improves reporting efficiency
@@ -230,7 +232,7 @@ Easy-to-use interface
 Professional dashboard appearance
 Industry-style workflow automation
 Future Enhancements
-
+---
 Future improvements may include:
 
 AI-powered insight generation
@@ -241,8 +243,5 @@ Cloud deployment
 Automated scheduled reporting
 NLP-based report summaries
 Power BI integration
-Predictive analytics
-│   ├── reporting.py
-│   └── helpers.py
 │
 └── logs/
